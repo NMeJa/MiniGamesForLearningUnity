@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Game 1 _Moving Without Restrictions_.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
